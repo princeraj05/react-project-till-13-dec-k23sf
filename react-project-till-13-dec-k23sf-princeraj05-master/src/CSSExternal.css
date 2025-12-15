@@ -1,0 +1,9 @@
+
+.container{
+    color: brown;
+    background-color: aqua;
+    border: 3px dotted blue;
+    border-radius: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
